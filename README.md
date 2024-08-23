@@ -1,0 +1,1 @@
+Hi guys! I just made a Charger Cellphone 3D Model on Autodesk Fusion 360. I left in this repo a .stl file of it, so feel free to use it! You can open it with Solidworks, ThinkerCAD, Meshmixer and others 3D viewers.
